@@ -15,7 +15,7 @@
     "gulp": "^4.0.2",
     "immutable": "^3.8.2",
     "node-sass": "^4.13.0",
-    "prismjs": "^1.18.0",
+    "prismjs": "^1.25.0",
     "react": "^16.12.0",
     "react-ace": "^8.0.0",
     "react-apollo": "^3.1.3",
